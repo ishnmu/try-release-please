@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/ishnmu/try-release-please/compare/v1.0.1...v1.1.0) (2023-11-20)
+
+
+### Features
+
+* add awesomeness ([a5bf0c4](https://github.com/ishnmu/try-release-please/commit/a5bf0c486a95a824daa90db05d93fef86e4e9a0a))
+
+
+### Bug Fixes
+
+* fix message text to greet humans with ex mark ([4bf6f0e](https://github.com/ishnmu/try-release-please/commit/4bf6f0e3f92bdb9d3a84078069f9a907fb0a76fc))
+
 ## [1.0.1](https://github.com/ishnmu/try-release-please/compare/v1.0.0...v1.0.1) (2023-11-20)
 
 
